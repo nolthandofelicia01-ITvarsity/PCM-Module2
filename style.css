@@ -1,0 +1,147 @@
+body{
+    background-color: black;
+}
+
+.nav{
+   
+    width: 100%;
+    height: 40%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    align-content: center;
+    background-color: white;
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.nav a{
+    text-decoration: none;
+    color: red;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-right: -50px;
+    font-weight: 800;
+    margin-left: 280px;
+}
+
+a:hover{
+    
+    color: black;
+}
+
+p{
+    margin-right: -10px;
+    color: white;
+}
+.about{
+    color: white;
+    border: 1px solid red;
+    border-right-color: black;
+    border-left-color: black;
+    border-bottom-color: black;
+    border-top-color: black;
+}
+
+h2{
+    background-color: red;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+.products{
+    border: 1px solid white;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    width: auto;
+    margin: auto;
+}
+table td{
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 800;
+    text-align: center;
+}
+
+.contact1{
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    width: 650px;
+    height: 510px;
+    text-align: center;
+   
+}
+h4{
+    font-family: fantasy;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+.cover{
+    margin-left: 370px;
+    margin-top: -290px;
+}
+
+.social{
+    margin-left: 790px;
+    margin-top: -300px;
+    text-align: center;
+}
+
+.social a{
+    padding-left: 4px;
+    padding-right: 40px;
+    text-decoration: none;
+}
+
+.gal{
+    text-align: center;
+    margin-top: -20px;
+}
+.promo{
+    margin-top: -15px;
+}
+
+h5{
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+}
+.main1{
+    border: 2px solid back;
+}
+
+button:hover{
+    background-color: green;
+    color: white;
+    text-transform: uppercase;
+}
+
+.main{
+    padding-left: 4px;
+    margin-left: 12px;
+    margin-top: 80px;
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    
+}
+
+h6{
+    color: red;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
